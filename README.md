@@ -37,6 +37,7 @@ performance in the US market.
 
 ## Data Analysis and Visualization
 
+
 ## Insights
 
 Strong overall performance: Adidas boasts impressive total sales of $899.90M and a total profit of $332M, indicating a healthy and profitable business.
