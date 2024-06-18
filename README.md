@@ -37,6 +37,7 @@ performance in the US market.
 
 ## Data Analysis and Visualization
 
+![](US ADIDAS ANALYSIS.jpg)
 
 ## Insights
 
