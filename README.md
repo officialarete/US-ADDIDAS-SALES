@@ -29,12 +29,14 @@ The data is analyzed across various dimensions including region, state, month, r
 performance in the US market.
 
 ## Data Source
-
+Kaggle.com
 
 ## Tool Used
+- **Microsoft Power BI** [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
 ## Data Transformation and Loading
-![](
+
+![](USADIDAStransformdata.jpg)
 
 
 ## Data Analysis and Visualization
