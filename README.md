@@ -35,16 +35,14 @@ Kaggle.com
 - **Microsoft Power BI** [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
 
 ## Data Transformation and Loading
+The transformation of this data presented some challenges due to its inconsistencies. Initially, I ensured that all blank rows and columns were removed, necessary headers were promoted, and duplicate values were replaced.
 
 ![](USADIDAStransformdata.jpg)
 
-
 ## Data Analysis and Visualization
-
 ![](USADIDASANALYSIS.jpg)
 
 ## Insights
-
 Strong overall performance: Adidas boasts impressive total sales of $899.90M and a total profit of $332M, indicating a healthy and profitable business.
 
 -West region dominates: The West region emerges as the leading contributor to total sales, followed closely by Northeast.
