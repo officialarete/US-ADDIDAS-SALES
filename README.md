@@ -34,6 +34,7 @@ performance in the US market.
 ## Tool Used
 
 ## Data Transformation and Loading
+![](
 
 ## Data Analysis and Visualization
 
