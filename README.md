@@ -37,6 +37,8 @@ Kaggle.com
 ## Data Transformation and Loading
 The transformation of this data presented some challenges due to its inconsistencies. Initially, I ensured that all blank rows and columns were removed, necessary headers were promoted, and duplicate values were replaced.
 
+![](USADIDASANALYSIS.pdf)
+
 ![](USADIDAStransformdata.jpg)
 
 ## Data Analysis and Visualization
