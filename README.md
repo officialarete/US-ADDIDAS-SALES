@@ -37,12 +37,12 @@ Kaggle.com
 ## Data Transformation and Loading
 The transformation of this data presented some challenges due to its inconsistencies. Initially, I ensured that all blank rows and columns were removed, necessary headers were promoted, and duplicate values were replaced.
 
-![](USADIDASANALYSIS.pdf)
 
 ![](USADIDAStransformdata.jpg)
 
 ## Data Analysis and Visualization
 ![](USADIDASANALYSIS.jpg)
+You can view the PDF file from [here](https://drive.google.com/file/d/1T-ySM-nsCNZ9B9BrhNoHWBk8gB__ZKiB/view?usp=sharing).
 
 ## Insights
 Strong overall performance: Adidas boasts impressive total sales of $899.90M and a total profit of $332M, indicating a healthy and profitable business.
